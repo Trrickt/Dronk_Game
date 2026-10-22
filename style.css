@@ -1,0 +1,8 @@
+/* stylesheet for Dronk index.html */
+
+body {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  background-image: linear-gradient(to right, #000000, #ffffff); /* obv change this */
+}
